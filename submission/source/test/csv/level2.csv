@@ -1,0 +1,121 @@
+bill_id,question_id,question
+IESCO_0004,Q01,What is the billing month of this bill?
+IESCO_0004,Q02,What is the total units consumed in this billing cycle?
+IESCO_0004,Q03,What is the amount payable within the due date?
+IESCO_0004,Q04,What is the due date for payment?
+IESCO_0004,Q05,What is the sanctioned load in kW?
+IESCO_0004,Q06,What is the electricity provider for this bill?
+IESCO_0004,Q07,What is the total tax amount charged on this bill?
+IESCO_0004,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+IESCO_0004,Q09,What is the late payment surcharge if paid after the due date?
+IESCO_0004,Q10,What is the tariff category or rate classification applied to this consumer?
+IESCO_0004,Q11,What is the current bill amount before arrears and adjustments?
+IESCO_0004,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+KESC_0004,Q01,What is the billing month of this bill?
+KESC_0004,Q02,What is the total units consumed in this billing cycle?
+KESC_0004,Q03,What is the amount payable within the due date?
+KESC_0004,Q04,What is the due date for payment?
+KESC_0004,Q05,What is the sanctioned load in kW?
+KESC_0004,Q06,What is the electricity provider for this bill?
+KESC_0004,Q07,What is the total tax amount charged on this bill?
+KESC_0004,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+KESC_0004,Q09,What is the late payment surcharge if paid after the due date?
+KESC_0004,Q10,What is the tariff category or rate classification applied to this consumer?
+KESC_0004,Q11,What is the current bill amount before arrears and adjustments?
+KESC_0004,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+KESC_0008,Q01,What is the billing month of this bill?
+KESC_0008,Q02,What is the total units consumed in this billing cycle?
+KESC_0008,Q03,What is the amount payable within the due date?
+KESC_0008,Q04,What is the due date for payment?
+KESC_0008,Q05,What is the sanctioned load in kW?
+KESC_0008,Q06,What is the electricity provider for this bill?
+KESC_0008,Q07,What is the total tax amount charged on this bill?
+KESC_0008,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+KESC_0008,Q09,What is the late payment surcharge if paid after the due date?
+KESC_0008,Q10,What is the tariff category or rate classification applied to this consumer?
+KESC_0008,Q11,What is the current bill amount before arrears and adjustments?
+KESC_0008,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+LESCO_0005,Q01,What is the billing month of this bill?
+LESCO_0005,Q02,What is the total units consumed in this billing cycle?
+LESCO_0005,Q03,What is the amount payable within the due date?
+LESCO_0005,Q04,What is the due date for payment?
+LESCO_0005,Q05,What is the sanctioned load in kW?
+LESCO_0005,Q06,What is the electricity provider for this bill?
+LESCO_0005,Q07,What is the total tax amount charged on this bill?
+LESCO_0005,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+LESCO_0005,Q09,What is the late payment surcharge if paid after the due date?
+LESCO_0005,Q10,What is the tariff category or rate classification applied to this consumer?
+LESCO_0005,Q11,What is the current bill amount before arrears and adjustments?
+LESCO_0005,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+LESCO_0006,Q01,What is the billing month of this bill?
+LESCO_0006,Q02,What is the total units consumed in this billing cycle?
+LESCO_0006,Q03,What is the amount payable within the due date?
+LESCO_0006,Q04,What is the due date for payment?
+LESCO_0006,Q05,What is the sanctioned load in kW?
+LESCO_0006,Q06,What is the electricity provider for this bill?
+LESCO_0006,Q07,What is the total tax amount charged on this bill?
+LESCO_0006,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+LESCO_0006,Q09,What is the late payment surcharge if paid after the due date?
+LESCO_0006,Q10,What is the tariff category or rate classification applied to this consumer?
+LESCO_0006,Q11,What is the current bill amount before arrears and adjustments?
+LESCO_0006,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+IESCO_0001,Q01,What is the billing month of this bill?
+IESCO_0001,Q02,What is the total units consumed in this billing cycle?
+IESCO_0001,Q03,What is the amount payable within the due date?
+IESCO_0001,Q04,What is the due date for payment?
+IESCO_0001,Q05,What is the sanctioned load in kW?
+IESCO_0001,Q06,What is the electricity provider for this bill?
+IESCO_0001,Q07,What is the total tax amount charged on this bill?
+IESCO_0001,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+IESCO_0001,Q09,What is the late payment surcharge if paid after the due date?
+IESCO_0001,Q10,What is the tariff category or rate classification applied to this consumer?
+IESCO_0001,Q11,What is the current bill amount before arrears and adjustments?
+IESCO_0001,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+KESC_0001,Q01,What is the billing month of this bill?
+KESC_0001,Q02,What is the total units consumed in this billing cycle?
+KESC_0001,Q03,What is the amount payable within the due date?
+KESC_0001,Q04,What is the due date for payment?
+KESC_0001,Q05,What is the sanctioned load in kW?
+KESC_0001,Q06,What is the electricity provider for this bill?
+KESC_0001,Q07,What is the total tax amount charged on this bill?
+KESC_0001,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+KESC_0001,Q09,What is the late payment surcharge if paid after the due date?
+KESC_0001,Q10,What is the tariff category or rate classification applied to this consumer?
+KESC_0001,Q11,What is the current bill amount before arrears and adjustments?
+KESC_0001,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+LESCO_0001,Q01,What is the billing month of this bill?
+LESCO_0001,Q02,What is the total units consumed in this billing cycle?
+LESCO_0001,Q03,What is the amount payable within the due date?
+LESCO_0001,Q04,What is the due date for payment?
+LESCO_0001,Q05,What is the sanctioned load in kW?
+LESCO_0001,Q06,What is the electricity provider for this bill?
+LESCO_0001,Q07,What is the total tax amount charged on this bill?
+LESCO_0001,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+LESCO_0001,Q09,What is the late payment surcharge if paid after the due date?
+LESCO_0001,Q10,What is the tariff category or rate classification applied to this consumer?
+LESCO_0001,Q11,What is the current bill amount before arrears and adjustments?
+LESCO_0001,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+IESCO_0007,Q01,What is the billing month of this bill?
+IESCO_0007,Q02,What is the total units consumed in this billing cycle?
+IESCO_0007,Q03,What is the amount payable within the due date?
+IESCO_0007,Q04,What is the due date for payment?
+IESCO_0007,Q05,What is the sanctioned load in kW?
+IESCO_0007,Q06,What is the electricity provider for this bill?
+IESCO_0007,Q07,What is the total tax amount charged on this bill?
+IESCO_0007,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+IESCO_0007,Q09,What is the late payment surcharge if paid after the due date?
+IESCO_0007,Q10,What is the tariff category or rate classification applied to this consumer?
+IESCO_0007,Q11,What is the current bill amount before arrears and adjustments?
+IESCO_0007,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?
+KESC_0002,Q01,What is the billing month of this bill?
+KESC_0002,Q02,What is the total units consumed in this billing cycle?
+KESC_0002,Q03,What is the amount payable within the due date?
+KESC_0002,Q04,What is the due date for payment?
+KESC_0002,Q05,What is the sanctioned load in kW?
+KESC_0002,Q06,What is the electricity provider for this bill?
+KESC_0002,Q07,What is the total tax amount charged on this bill?
+KESC_0002,Q08,Are there any previous arrears or credits carried forward, and what is the amount?
+KESC_0002,Q09,What is the late payment surcharge if paid after the due date?
+KESC_0002,Q10,What is the tariff category or rate classification applied to this consumer?
+KESC_0002,Q11,What is the current bill amount before arrears and adjustments?
+KESC_0002,Q12,Is any government subsidy or relief applied to this bill, and if so, how much?

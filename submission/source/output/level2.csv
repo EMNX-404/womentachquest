@@ -1,0 +1,121 @@
+bill_id,question_id,question,answer
+IESCO_0004,Q01,What is the billing month of this bill?,The billing month is 2026-09.
+IESCO_0004,Q02,What is the total units consumed in this billing cycle?,158 units were consumed during this billing cycle.
+IESCO_0004,Q03,What is the amount payable within the due date?,"PKR 3,535 is payable within the due date."
+IESCO_0004,Q04,What is the due date for payment?,The due date is 2026-10-08.
+IESCO_0004,Q05,What is the sanctioned load in kW?,The sanctioned load is 3 kW.
+IESCO_0004,Q06,What is the electricity provider for this bill?,The electricity provider is Islamabad Electric Supply Company (IESCO).
+IESCO_0004,Q07,What is the total tax amount charged on this bill?,Total taxes charged amount to PKR 498.
+IESCO_0004,Q08,Are there any previous arrears or credits carried forward,There are no previous arrears carried forward (PKR 0).
+IESCO_0004,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 3,812 (an increase of PKR 277 over the on-time payable amount)."
+IESCO_0004,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A-1A(01).
+IESCO_0004,Q11,What is the current bill amount before arrears and adjustments?,There are no previous arrears carried forward (PKR 0).
+IESCO_0004,Q12,Is any government subsidy or relief applied to this bill,"Yes, a government subsidy relief of PKR 3,332 is deducted from the bill."
+KESC_0004,Q01,What is the billing month of this bill?,The billing month is 2026-06.
+KESC_0004,Q02,What is the total units consumed in this billing cycle?,900.94 units were consumed during this billing cycle.
+KESC_0004,Q03,What is the amount payable within the due date?,PKR 0 is payable within the due date.
+KESC_0004,Q04,What is the due date for payment?,The due date is 2026-07-13.
+KESC_0004,Q05,What is the sanctioned load in kW?,The sanctioned load is 10 kW.
+KESC_0004,Q06,What is the electricity provider for this bill?,The electricity provider is K-Electric (KE).
+KESC_0004,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 7,472.24 (electricity_duty: PKR 520.85, gst: PKR 6951.39)."
+KESC_0004,Q08,Are there any previous arrears or credits carried forward,"There is a previous credit balance of PKR -91,877.02 carried forward."
+KESC_0004,Q09,What is the late payment surcharge if paid after the due date?,The late payment amount is PKR 0 (an increase of PKR 0 over the on-time payable amount).
+KESC_0004,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A1-R.
+KESC_0004,Q11,What is the current bill amount before arrears and adjustments?,"There is a previous credit balance of PKR -91,877.02 carried forward."
+KESC_0004,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+KESC_0008,Q01,What is the billing month of this bill?,The billing month is 2026-04.
+KESC_0008,Q02,What is the total units consumed in this billing cycle?,151 units were consumed during this billing cycle.
+KESC_0008,Q03,What is the amount payable within the due date?,"PKR 3,430 is payable within the due date."
+KESC_0008,Q04,What is the due date for payment?,The due date is 2026-04-21.
+KESC_0008,Q05,What is the sanctioned load in kW?,The sanctioned load is 3 kW.
+KESC_0008,Q06,What is the electricity provider for this bill?,The electricity provider is K-Electric (KE).
+KESC_0008,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 569.62 (electricity_duty: PKR 29.41, gst: PKR 520.21, municipal_tax: PKR 20)."
+KESC_0008,Q08,Are there any previous arrears or credits carried forward,There is a previous credit balance of PKR -0.53 carried forward.
+KESC_0008,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 3,716 (an increase of PKR 286 over the on-time payable amount)."
+KESC_0008,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A1-R.
+KESC_0008,Q11,What is the current bill amount before arrears and adjustments?,There is a previous credit balance of PKR -0.53 carried forward.
+KESC_0008,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+LESCO_0005,Q01,What is the billing month of this bill?,The billing month is 2026-07.
+LESCO_0005,Q02,What is the total units consumed in this billing cycle?,1319 units were consumed during this billing cycle.
+LESCO_0005,Q03,What is the amount payable within the due date?,PKR -54770 (the bill reflects an advance credit balance and requires no payment).
+LESCO_0005,Q04,What is the due date for payment?,The due date is 2026-07-30.
+LESCO_0005,Q05,What is the sanctioned load in kW?,The sanctioned load is 10 kW.
+LESCO_0005,Q06,What is the electricity provider for this bill?,The electricity provider is Lahore Electric Supply Company (LESCO).
+LESCO_0005,Q07,What is the total tax amount charged on this bill?,"Total taxes charged amount to PKR 3,358.23."
+LESCO_0005,Q08,Are there any previous arrears or credits carried forward,"There is a previous credit balance of PKR -75,496 carried forward."
+LESCO_0005,Q09,What is the late payment surcharge if paid after the due date?,PKR 0 surcharge applies; the bill explicitly specifies not to be paid due to credit balance.
+LESCO_0005,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A-1b(03)T.
+LESCO_0005,Q11,What is the current bill amount before arrears and adjustments?,"There is a previous credit balance of PKR -75,496 carried forward."
+LESCO_0005,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+LESCO_0006,Q01,What is the billing month of this bill?,The billing month is 2026-08.
+LESCO_0006,Q02,What is the total units consumed in this billing cycle?,65 units were consumed during this billing cycle.
+LESCO_0006,Q03,What is the amount payable within the due date?,"PKR 44,912 is payable within the due date."
+LESCO_0006,Q04,What is the due date for payment?,The due date is 2026-09-09.
+LESCO_0006,Q05,What is the sanctioned load in kW?,The sanctioned load is 1 kW.
+LESCO_0006,Q06,What is the electricity provider for this bill?,The electricity provider is Lahore Electric Supply Company (LESCO).
+LESCO_0006,Q07,What is the total tax amount charged on this bill?,"Total taxes charged amount to PKR 1,723.51."
+LESCO_0006,Q08,Are there any previous arrears or credits carried forward,"Arrears of PKR 39,411 are carried forward."
+LESCO_0006,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 45,263 (an increase of PKR 351 over the on-time payable amount)."
+LESCO_0006,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A-2a(04).
+LESCO_0006,Q11,What is the current bill amount before arrears and adjustments?,"Arrears of PKR 39,411 are carried forward."
+LESCO_0006,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+IESCO_0001,Q01,What is the billing month of this bill?,The billing month is 2026-08.
+IESCO_0001,Q02,What is the total units consumed in this billing cycle?,340 units were consumed during this billing cycle.
+IESCO_0001,Q03,What is the amount payable within the due date?,"PKR 15,435 is payable within the due date."
+IESCO_0001,Q04,What is the due date for payment?,The due date is 2026-09-08.
+IESCO_0001,Q05,What is the sanctioned load in kW?,The sanctioned load is 5 kW.
+IESCO_0001,Q06,What is the electricity provider for this bill?,The electricity provider is Islamabad Electric Supply Company (IESCO).
+IESCO_0001,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 2,465 (gst: PKR 2150, electricity_duty: PKR 280, other_tax: PKR 35)."
+IESCO_0001,Q08,Are there any previous arrears or credits carried forward,There are no previous arrears carried forward (PKR 0).
+IESCO_0001,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 16,750 (an increase of PKR 1,315 over the on-time payable amount)."
+IESCO_0001,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A-1A(02).
+IESCO_0001,Q11,What is the current bill amount before arrears and adjustments?,There are no previous arrears carried forward (PKR 0).
+IESCO_0001,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+KESC_0001,Q01,What is the billing month of this bill?,The billing month is 2026-05.
+KESC_0001,Q02,What is the total units consumed in this billing cycle?,780 units were consumed during this billing cycle.
+KESC_0001,Q03,What is the amount payable within the due date?,"PKR 44,482 is payable within the due date."
+KESC_0001,Q04,What is the due date for payment?,The due date is 2026-06-08.
+KESC_0001,Q05,What is the sanctioned load in kW?,The sanctioned load is 15 kW.
+KESC_0001,Q06,What is the electricity provider for this bill?,The electricity provider is K-Electric (KE).
+KESC_0001,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 7,282 (gst: PKR 6324, electricity_duty: PKR 558, municipal_tax: PKR 400)."
+KESC_0001,Q08,Are there any previous arrears or credits carried forward,There are no previous arrears carried forward (PKR 0).
+KESC_0001,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 47,150 (an increase of PKR 2,668 over the on-time payable amount)."
+KESC_0001,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A2-C.
+KESC_0001,Q11,What is the current bill amount before arrears and adjustments?,There are no previous arrears carried forward (PKR 0).
+KESC_0001,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+LESCO_0001,Q01,What is the billing month of this bill?,The billing month is 2026-07.
+LESCO_0001,Q02,What is the total units consumed in this billing cycle?,95 units were consumed during this billing cycle.
+LESCO_0001,Q03,What is the amount payable within the due date?,"PKR 1,590 is payable within the due date."
+LESCO_0001,Q04,What is the due date for payment?,The due date is 2026-08-04.
+LESCO_0001,Q05,What is the sanctioned load in kW?,The sanctioned load is 2 kW.
+LESCO_0001,Q06,What is the electricity provider for this bill?,The electricity provider is Lahore Electric Supply Company (LESCO).
+LESCO_0001,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 80 (electricity_duty: PKR 45, other_tax: PKR 35)."
+LESCO_0001,Q08,Are there any previous arrears or credits carried forward,There are no previous arrears carried forward (PKR 0).
+LESCO_0001,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 1,740 (an increase of PKR 150 over the on-time payable amount)."
+LESCO_0001,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A-1a(01).
+LESCO_0001,Q11,What is the current bill amount before arrears and adjustments?,There are no previous arrears carried forward (PKR 0).
+LESCO_0001,Q12,Is any government subsidy or relief applied to this bill,"Yes, a government subsidy relief of PKR 1,120 is deducted from the bill."
+IESCO_0007,Q01,What is the billing month of this bill?,The billing month is 2026-08.
+IESCO_0007,Q02,What is the total units consumed in this billing cycle?,620 units were consumed during this billing cycle.
+IESCO_0007,Q03,What is the amount payable within the due date?,PKR -8450 (the bill reflects an advance credit balance and requires no payment).
+IESCO_0007,Q04,What is the due date for payment?,The due date is 2026-09-05.
+IESCO_0007,Q05,What is the sanctioned load in kW?,The sanctioned load is 10 kW.
+IESCO_0007,Q06,What is the electricity provider for this bill?,The electricity provider is Islamabad Electric Supply Company (IESCO).
+IESCO_0007,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 1,672 (gst: PKR 1542, electricity_duty: PKR 130)."
+IESCO_0007,Q08,Are there any previous arrears or credits carried forward,"There is a previous credit balance of PKR -18,692 carried forward."
+IESCO_0007,Q09,What is the late payment surcharge if paid after the due date?,PKR 0 surcharge applies; the bill explicitly specifies not to be paid due to credit balance.
+IESCO_0007,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A-1b(03)T.
+IESCO_0007,Q11,What is the current bill amount before arrears and adjustments?,"There is a previous credit balance of PKR -18,692 carried forward."
+IESCO_0007,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.
+KESC_0002,Q01,What is the billing month of this bill?,The billing month is 2026-05.
+KESC_0002,Q02,What is the total units consumed in this billing cycle?,285 units were consumed during this billing cycle.
+KESC_0002,Q03,What is the amount payable within the due date?,"PKR 11,800 is payable within the due date."
+KESC_0002,Q04,What is the due date for payment?,The due date is 2026-05-20.
+KESC_0002,Q05,What is the sanctioned load in kW?,The sanctioned load is 5 kW.
+KESC_0002,Q06,What is the electricity provider for this bill?,The electricity provider is K-Electric (KE).
+KESC_0002,Q07,What is the total tax amount charged on this bill?,"Total taxes are PKR 1,965 (gst: PKR 1770, electricity_duty: PKR 145, municipal_tax: PKR 50)."
+KESC_0002,Q08,Are there any previous arrears or credits carried forward,There are no previous arrears carried forward (PKR 0).
+KESC_0002,Q09,What is the late payment surcharge if paid after the due date?,"The late payment amount is PKR 12,750 (an increase of PKR 950 over the on-time payable amount)."
+KESC_0002,Q10,What is the tariff category or rate classification applied to this consumer?,The tariff classification applied is A1-R.
+KESC_0002,Q11,What is the current bill amount before arrears and adjustments?,There are no previous arrears carried forward (PKR 0).
+KESC_0002,Q12,Is any government subsidy or relief applied to this bill,No government subsidy or relief is applied on this bill.

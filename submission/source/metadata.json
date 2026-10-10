@@ -1,0 +1,6 @@
+{
+  "name": "WTQ Utility Bill Decoder & Validator",
+  "description": "Comprehensive utility bill decoder, JSON validator, and discrepancy audit system for K-Electric, LESCO, and IESCO bills conforming to Women Tech Quest specifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,218 @@
+{
+  "audit_summary": {
+    "total_bills_evaluated": 10,
+    "valid_json_syntax": true,
+    "all_bills_represented": true,
+    "schema_compliance": "100%",
+    "providers_represented": [
+      "IESCO",
+      "KE",
+      "LESCO"
+    ],
+    "overall_status": "VALIDATED_WITH_DOCUMENTED_BILL_PRINTS_DISCREPANCIES"
+  },
+  "bill_reports": [
+    {
+      "bill_id": "IESCO_0004",
+      "provider": "IESCO",
+      "bill_month": "2026-09",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (9459) - previous (9301)",
+          "calculated": 158,
+          "printed": 158,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (2770) + taxes (498)",
+          "calculated": 3268,
+          "printed": 3267,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "KESC_0004",
+      "provider": "KE",
+      "bill_month": "2026-06",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "current_bill_sum": {
+          "formula": "charges (38098.01) + taxes (7472.24)",
+          "calculated": 45570,
+          "printed": 45570.25,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "KESC_0008",
+      "provider": "KE",
+      "bill_month": "2026-04",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (8970) - previous (8819)",
+          "calculated": 151,
+          "printed": 151,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (2860.62) + taxes (569.62)",
+          "calculated": 3430,
+          "printed": 3430.24,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "LESCO_0005",
+      "provider": "LESCO",
+      "bill_month": "2026-07",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "current_bill_sum": {
+          "formula": "charges (17367.77) + taxes (3358.23)",
+          "calculated": 20726,
+          "printed": 20726,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "LESCO_0006",
+      "provider": "LESCO",
+      "bill_month": "2026-08",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (22303) - previous (22238)",
+          "calculated": 65,
+          "printed": 65,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (3777.49) + taxes (1723.51)",
+          "calculated": 5501,
+          "printed": 5501,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "IESCO_0001",
+      "provider": "IESCO",
+      "bill_month": "2026-08",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (4460) - previous (4120)",
+          "calculated": 340,
+          "printed": 340,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (12970) + taxes (2465)",
+          "calculated": 15435,
+          "printed": 15435,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "KESC_0001",
+      "provider": "KE",
+      "bill_month": "2026-05",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (14980) - previous (14200)",
+          "calculated": 780,
+          "printed": 780,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (37200) + taxes (7282)",
+          "calculated": 44482,
+          "printed": 44482,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "LESCO_0001",
+      "provider": "LESCO",
+      "bill_month": "2026-07",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (5705) - previous (5610)",
+          "calculated": 95,
+          "printed": 95,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (1510) + taxes (80)",
+          "calculated": 1590,
+          "printed": 1590,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "IESCO_0007",
+      "provider": "IESCO",
+      "bill_month": "2026-08",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "current_bill_sum": {
+          "formula": "charges (8570) + taxes (1672)",
+          "calculated": 10242,
+          "printed": 10242,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    },
+    {
+      "bill_id": "KESC_0002",
+      "provider": "KE",
+      "bill_month": "2026-05",
+      "syntax_valid": true,
+      "fields_complete": true,
+      "checks": {
+        "units_calculation": {
+          "formula": "current (7000) - previous (6715)",
+          "calculated": 285,
+          "printed": 285,
+          "match": true
+        },
+        "current_bill_sum": {
+          "formula": "charges (9835) + taxes (1965)",
+          "calculated": 11800,
+          "printed": 11800,
+          "match": true
+        }
+      },
+      "identified_discrepancies": []
+    }
+  ]
+}
